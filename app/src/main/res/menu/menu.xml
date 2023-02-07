@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ListadoJugadores"
+        android:title="Listado Jugadores"/>
+
+    <item
+        android:id="@+id/AnadirJugadores"
+        android:title="Añadir Jugadores"/>
+
+    <item
+        android:id="@+id/AccesoCyG"
+        android:title="Acceso a Camara Y Galeria"/>
+
+</menu>
